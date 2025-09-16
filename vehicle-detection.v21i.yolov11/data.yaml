@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['mobil', 'motor']
+
+roboflow:
+  workspace: final-project-7gql2
+  project: vehicle-detection-i66s2
+  version: 21
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/final-project-7gql2/vehicle-detection-i66s2/dataset/21
