@@ -1,7 +1,8 @@
-Flask==3.0.0
-opencv-python-headless==4.9.0.80
+Flask==3.0.3
+opencv-python-headless==4.10.0.84
 PyYAML==6.0.1
-ultralytics==8.1.0
-Werkzeug==3.0.1
-Pillow==10.2.0
-gunicorn==21.2.0
+ultralytics==8.3.0
+Werkzeug==3.0.3
+Pillow==10.4.0
+gunicorn==22.0.0
+numpy<2.0.0
